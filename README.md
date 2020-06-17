@@ -9,7 +9,7 @@ Requirements:
 * JDK
 
 Project download and import:
-* Git clone the repository to local disk: https://github.com/IrenaNiu/Java-TetrisTest.git
+* Git clone the repository to local disk: https://github.com/7UsmanS/JavaTetrisTest.git
 * Open IDE of Eclipse and import the project into the IDE. File --> Open Projects from File System... --> Select directory --> Click OK
 * The JUnit 4 library could be set up by BuildPath to make sure the JUnit tests are working.
 
