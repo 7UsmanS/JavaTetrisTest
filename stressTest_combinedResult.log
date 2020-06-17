@@ -1,0 +1,55 @@
+/home/st/susman/Java-TetrisTest
+Cleaning up stale log files...
+removed ‘runTestSuiteLog.txt’
+
+================================================================================
+Java Version
+================================================================================
+
+openjdk version "11.0.6" 2020-01-14 LTS OpenJDK Runtime Environment 18.9 (build 11.0.6+10-LTS) OpenJDK 64-Bit Server VM 18.9 (build 11.0.6+10-LTS, mixed mode)
+JUnit jar file: /home/st/susman/Java-TetrisTest/lib/junit-4.13.jar
+
+================================================================================
+Test Suite Execution
+================================================================================
+
+Start date/time: Mon Jun 8 17:48:09 PDT 2020
+**************************************************
+Executing test run 1 of 1...
+**************************************************
+JUnit version 4.13
+..............
+Time: 0.078
+
+OK (14 tests)
+
+Tests completed with return code: 0
+JUnit version 4.13
+...........
+Time: 0.111
+
+OK (11 tests)
+
+Tests completed with return code: 0
+JUnit version 4.13
+.........
+Time: 0.079
+
+OK (9 tests)
+
+Tests completed with return code: 0
+Stop date/time: Mon Jun 8 17:48:10 PDT 2020
+
+================================================================================
+Results & Statistics
+================================================================================
+Overall test suite result:  PASS
+Execution time:             1 [seconds]
+# of test suite runs:       1
+# of passing runs:          3
+# of failing runs:          0
+Test suite passing rate:    100.00%
+# of failing test cases:    0
+================================================================================
+Please see the log file for the full console output: runTestSuiteLog.txt
+
