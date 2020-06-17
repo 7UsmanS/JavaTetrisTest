@@ -23,7 +23,7 @@ Right click package “tested”, click “Coverage as” → “JUnit test”. 
 3. Project regression test and stress test on CS1:
 Log in CS1 and "cd" any folder you want to git clone (save this target repo)
 Use git clone to import the repo:
-  git clone https://github.com/IrenaNiu/Java-TetrisTest.git
+  git clone https://github.com/7UsmanS/JavaTetrisTest.git
 Enter the repository of project:
   cd Java-TetrisTest
 Change permissions to make scripts executable:
