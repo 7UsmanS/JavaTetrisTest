@@ -10,7 +10,7 @@ Requirements:
 
 2. Project clone and import in Eclipse:
 Open IDE Eclipse and import the project into the IDE:
-File → Import → Git → Project from Git → Clone URL → URL: https://github.com/IrenaNiu/Java-TetrisTest.git → follow the next steps until finish. You will see the project loaded in the left navigation bar with all subfolders.
+File → Import → Git → Project from Git → Clone URL → URL: https://github.com/7UsmanS/JavaTetrisTest.git → follow the next steps until finish. You will see the project loaded in the left navigation bar with all subfolders.
 
 Steps for running unit tests and code coverage:
 
