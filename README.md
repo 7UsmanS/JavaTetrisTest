@@ -12,7 +12,7 @@ The unit tests were performed for BlockGrid, TetrisGrid and TetrisBlock three cl
 
 ## **2. Project clone and import in Eclipse:**
 * Open IDE Eclipse and import the project into the IDE: <br/>
-File →  Import → Git → Project from Git → Clone URL → URL: https://github.com/IrenaNiu/Java-TetrisTest.git → follow the next steps until finish.
+File →  Import → Git → Project from Git → Clone URL → URL: https://github.com/7UsmanS/JavaTetrisTest.git → follow the next steps until finish.
 You will see the project loaded in the left navigation bar with all subfolders.
 
   Steps for running unit tests and code coverage: <br/>
@@ -24,7 +24,7 @@ You will see the project loaded in the left navigation bar with all subfolders.
 * Log in CS1 and "cd" any folder you want to git clone (save this target repo)
 * Use git clone to import the repo:
 ```
-  git clone https://github.com/IrenaNiu/Java-TetrisTest.git
+  git clone https:/https://github.com/7UsmanS/JavaTetrisTest.git
 ```
 * Enter the repository of project:
 ```
